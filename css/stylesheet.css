@@ -311,7 +311,7 @@ p.service_text{
 }
 .logo {
   padding: 15px 0;
-  width: 170px;
+  width: 100px;
 }
 
 /* =====================
@@ -1238,7 +1238,7 @@ p.service_text{
 	margin-left:-10px;
 }
 .price .features {
-	padding: 25px 15px 15px 15px;
+	padding: 25px 10px 15px 10px;
 	text-align: center;
 }
 
